@@ -1,0 +1,28 @@
+.container {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  background-color: orange;
+  gap: 50px;
+}
+
+table td,
+table th {
+  width: 150px;
+  color: white;
+}
+
+table td {
+  text-align: center;
+}
+table th {
+  text-align: center;
+  color: white;
+}
+
+p {
+  color: white;
+  text-align: center;
+}
